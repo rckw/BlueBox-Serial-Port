@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BlueBox_SerialPort.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ComPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM7 - Silicon Labs CP210x USB to UART Bridge (COM7)</Value>
+    </Setting>
+    <Setting Name="Slave" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="CBSIMFiles" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\!data 2015\!BlueBox\Redboot\CBSIM</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

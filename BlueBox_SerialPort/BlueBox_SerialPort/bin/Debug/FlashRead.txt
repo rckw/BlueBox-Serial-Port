@@ -1,0 +1,24 @@
+mount -d /dev/mmc0/1 -t fatfs /sdcard
+RedBoot> ls -d /sdcard/firmware/fsb/cbmp
+directory /sdcard/firmware/fsb/cbmp
+5164 drwxrwxrwx  1 size      0 .
+4940 drwxrwxrwx  1 size      0 ..
+5165 -rwxrwxrwx  1 size 235938 cbmp_hfi31_id124.bit
+5281 -rwxrwxrwx  1 size 235938 cbmp_hfi31_id132.bit
+RedBoot> ls -d /sdcard/firmware/fsb/cbio
+directory /sdcard/firmware/fsb/cbio
+4941 drwxrwxrwx  1 size      0 .
+4940 drwxrwxrwx  1 size      0 ..
+4942 -rwxrwxrwx  1 size 149636 cbio_hfi31_id10b.bit
+5016 -rwxrwxrwx  1 size 149636 cbio_hfi20_id115.bit
+5090 -rwxrwxrwx  1 size 149640 cbio_pdr_hfi31_id114.bit
+RedBoot> ls -d /sdcard/firmware/fsb/absd
+directory /sdcard/firmware/fsb/absd
+6151 drwxrwxrwx  1 size      0 .
+4940 drwxrwxrwx  1 size      0 ..
+6152 -rwxrwxrwx  1 size 149636 absd_hfi20_id118.bit
+6226 -rwxrwxrwx  1 size 149636 absd_hfi31_id10f.bit
+6300 drwxrwxrwx  1 size      0 data
+RedBoot> ls -d /sdcard/firmware/fsb/cbsd
+directory /sdcard/firmware/fsb/cbsd
+5983 drwxrwxrwx  1 size      0 .

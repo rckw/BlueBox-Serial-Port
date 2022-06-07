@@ -1,0 +1,13 @@
+helphelp
+help mfilliffail ( sdetect ) wmessage -b 0x70000 -s "1002 -- no SDcard detected" ; fis load -d -b 0x80000 httpfileserv.gz ; go 0x80000 ;
+iffail ( jumper ) format -p 1 -b 63 -s 131072 ; wmessage -b 0x70000 -s "1003 -- jumper detected" ; fis load -d -b 0x80000 httpfileserv.gz ; go 0x80000 ;
+iffail ( mount -d /dev/mmc0/1 -t fatfs /fat0 ) ; format -p 1 -b 63 -s 131072 ; mount -d /dev/mmc0/1 -t fatfs /fat0
+iftrue ( checkfile -s /fat0/ok ) ; iftrue ( checkfile -s /fat0/last ) ; iftrue ( checkfile -s /fat0/scripts/startup.script ) scriptload /fat0/scripts/startup.script ; umount /fat0 ; script ;
+iftrue ( mount -d /dev/mmc0/2 -t fatfs /fat1 ) ; iftrue ( checkfile -s /fat1/ok ) ; iftrue ( checkfile -s /fat1/last ) ; iftrue ( checkfile -s /fat1/scripts/startup.script ) scriptload /fat1/scripts/startup.script ; umount /fat0 ; umount /fat1 ; script ;
+umount /fat0 ; format -p 1 -b 63 -s 131072 ; mfill -b 0x70000 -l 0x200 -p 0x0000 ; fis load -d -b 0x80000 httpfileserv.gz ; go 0x80000 ;
+
+
+help
+help
+help
+

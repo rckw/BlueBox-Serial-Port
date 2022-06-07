@@ -1,0 +1,38 @@
+C:\!data 2013\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\bin\Release\BlueBox_SerialPort.exe.config
+C:\!data 2013\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\bin\Release\BlueBox_SerialPort.exe
+C:\!data 2013\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\bin\Release\BlueBox_SerialPort.pdb
+C:\!data 2013\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.FormMaster.resources
+C:\!data 2013\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.FormMore.resources
+C:\!data 2013\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.Properties.Resources.resources
+C:\!data 2013\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.csproj.GenerateResource.Cache
+C:\!data 2013\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.exe
+C:\!data 2013\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.pdb
+C:\!data 2014\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\bin\Release\BlueBox_SerialPort.exe.config
+C:\!data 2014\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.exe
+C:\!data 2014\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.pdb
+C:\!data 2014\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\bin\Release\BlueBox_SerialPort.exe
+C:\!data 2014\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\bin\Release\BlueBox_SerialPort.pdb
+C:\!data 2014\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.FormMaster.resources
+C:\!data 2014\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.FormMore.resources
+C:\!data 2014\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.Properties.Resources.resources
+C:\!data 2014\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.csproj.GenerateResource.Cache
+C:\!data 2015\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\bin\Release\BlueBox_SerialPort.exe.config
+C:\!data 2015\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.exe
+C:\!data 2015\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.pdb
+C:\!data 2015\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\bin\Release\BlueBox_SerialPort.exe
+C:\!data 2015\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\bin\Release\BlueBox_SerialPort.pdb
+C:\!data 2015\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.FormMaster.resources
+C:\!data 2015\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.FormMore.resources
+C:\!data 2015\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.Properties.Resources.resources
+C:\!data 2015\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.csproj.GenerateResource.Cache
+C:\!data 2015\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.csprojResolveAssemblyReference.cache
+C:\!data\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\bin\Release\BlueBox_SerialPort.exe.config
+C:\!data\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.exe
+C:\!data\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.pdb
+C:\!data\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\bin\Release\BlueBox_SerialPort.exe
+C:\!data\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\bin\Release\BlueBox_SerialPort.pdb
+C:\!data\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.csprojResolveAssemblyReference.cache
+C:\!data\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.FormMaster.resources
+C:\!data\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.FormMore.resources
+C:\!data\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.Properties.Resources.resources
+C:\!data\!BlueBox\BlueBoxDebug\PsiControl\PsiControl\BlueBox_SerialPort\BlueBox_SerialPort\obj\x86\Release\BlueBox_SerialPort.csproj.GenerateResource.Cache
